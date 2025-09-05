@@ -88,7 +88,7 @@ AGENT_TEMPERATURE=0.3
 ### Method 1: Quick Install (Recommended)
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/agent-zero.git
+git clone https://github.com/Parokor/a0-core-agent
 cd agent-zero
 
 # Run installation script
@@ -103,7 +103,7 @@ sudo mkdir -p /opt/agentzero/{core,interfaces,intelligence,system,web,config,log
 cd /opt/agentzero
 
 # Clone repository
-git clone https://github.com/yourusername/agent-zero.git .
+git clone https://github.com/Parokor/a0-core-agent .
 
 # Install Python dependencies
 pip install -r requirements.txt
