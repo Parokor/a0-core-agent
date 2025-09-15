@@ -24,4 +24,4 @@ flake8>=6.1.0
 mypy>=1.7.1
 
 # Browser automation (may not be available in all regions)
-browser-use>=0.1.0; sys_platform != "win32"
+# browser-use>=0.1.0; sys_platform != "win32"
